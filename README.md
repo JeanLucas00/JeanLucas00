@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">Eu sou Jean Santos de Campinas-SP.<br><br>- 🔭 Trabalho como Maître.<br>- 💻 3° Semestre em Engenharia de Software.<br>- 📚 Curso Alura ONE G7 - BackEnd.<br>- ⚡ Em meu tempo livre, faço alguns projetos de FrontEnd, leio, estudo e jogo.</p>
+<p align="left">Eu sou Jean Santos de Campinas-SP.<br><br>- 🔭 Trabalho como Maître.<br>- 💻 3° Semestre em Engenharia de Software.<br>- ⚡ Em meu tempo livre, faço alguns projetos de FrontEnd, leio, estudo e jogo.</p>
 
 ###
 
