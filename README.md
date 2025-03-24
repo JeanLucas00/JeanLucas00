@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">Eu sou Jean Santos de Campinas-SP.<br><br>- 🔭 Trabalho como Maître.<br>- 💻 3° Semestre em Engenharia de Software.<br>- ⚡ Em meu tempo livre, faço alguns projetos de FrontEnd, leio, estudo e jogo.</p>
+<p align="left">Eu sou Jean Santos de Campinas-SP.<br><br>- 🔭 Trabalho como Maître.<br>- 💻 3° Semestre em Engenharia de Software.<br>- ⚡ Em meu tempo livre, faço alguns projetos, leio, estudo e jogo.</p>
 
 ###
 
@@ -30,15 +30,11 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
